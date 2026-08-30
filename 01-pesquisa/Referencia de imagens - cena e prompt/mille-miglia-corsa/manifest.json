@@ -1,0 +1,63 @@
+{
+  "expected_carousel_count": 5,
+  "competitor_page": "https://www.rschrono.com/products/gyro-shelby-gt500-stainless-steel-strap",
+  "produto_novo": "Mille Miglia Corsa",
+  "handle_novo": "mille-miglia-corsa",
+  "imagens": [
+    {
+      "posicao": 1,
+      "arquivo_local": "carrossel-concorrente/referencia-01.webp",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0329/5130/4330/files/RS-Chrono-Shelby-GT500-Metal-Strap-Front.webp",
+      "cena": "Still de produto em fundo branco, mostrador giratorio estilo roda com pinca de freio colorida visivel, ponteiros vermelhos, pulseira de metal.",
+      "funcao_comercial": "Imagem principal da PDP.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 2,
+      "arquivo_local": "carrossel-concorrente/referencia-02.webp",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0329/5130/4330/files/RS-Chrono-Shelby-GT500-Metal-Strap-Bezel.webp",
+      "cena": "Close-up do bezel/moldura do mostrador, mostrando textura e acabamento da borda.",
+      "funcao_comercial": "Prova de detalhe de acabamento da moldura.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 3,
+      "arquivo_local": "carrossel-concorrente/referencia-03.webp",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0329/5130/4330/files/RS-Chrono-Backplate-Metal-Strap_ea97d7eb-bd22-4c8e-913c-69b9086c0d82.webp",
+      "cena": "Verso do case (backplate), mostrando gravacao e fecho da pulseira.",
+      "funcao_comercial": "Prova de acabamento traseiro e informacao tecnica gravada.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 4,
+      "arquivo_local": "carrossel-concorrente/referencia-04.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0329/5130/4330/files/Shelby_red_metal.png",
+      "cena": "Fotografia de unboxing: caixa aberta mostrando relogio, cartao de garantia, saco de protecao, pano de microfibra e ferramenta de ajuste, legenda 'What's Included'.",
+      "funcao_comercial": "Prova de experiencia de unboxing premium.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 5,
+      "arquivo_local": "carrossel-concorrente/referencia-05.webp",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0329/5130/4330/files/RS-Chrono-Shelby-GT500-Dial.webp",
+      "cena": "Close-up macro do mostrador central, profundidade entre o mecanismo giratorio e o fundo do dial.",
+      "funcao_comercial": "Prova de profundidade/dimensao 3D do mostrador.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    }
+  ]
+}

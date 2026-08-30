@@ -1,0 +1,52 @@
+{
+  "expected_carousel_count": 4,
+  "competitor_page": "https://www.driftelement.com/products/motorsport-silver",
+  "produto_novo": "Le Mans Heritage",
+  "handle_novo": "le-mans-heritage",
+  "imagens": [
+    {
+      "posicao": 1,
+      "arquivo_local": "carrossel-concorrente/referencia-01.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0756/8624/8778/files/Motorsport-Silber-Quarz-00001.png",
+      "cena": "Still de produto em fundo verde-agua claro, case prateado, mostrador giratorio com pinca azul e texto na pinca.",
+      "funcao_comercial": "Imagem principal da PDP.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 2,
+      "arquivo_local": "carrossel-concorrente/referencia-02.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0756/8624/8778/files/Motorsport-Silber-Quarz-00002.jpg",
+      "cena": "Angulo lateral do case, espessura e coroa de ajuste.",
+      "funcao_comercial": "Prova de construcao fisica.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 3,
+      "arquivo_local": "carrossel-concorrente/referencia-03.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0756/8624/8778/files/Motorsport-Silber-Quarz-00003.jpg",
+      "cena": "Close-up do mostrador, furos de ventilacao estilo disco de freio.",
+      "funcao_comercial": "Prova de detalhe tecnico.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 4,
+      "arquivo_local": "carrossel-concorrente/referencia-04.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0756/8624/8778/files/WhatsApp_Image_2026-06-16_at_17.05.34.jpg",
+      "cena": "Foto de uso real estilo UGC, pulso com o relogio em ambiente informal.",
+      "funcao_comercial": "Prova social de uso real.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    }
+  ]
+}

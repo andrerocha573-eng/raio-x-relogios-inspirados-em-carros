@@ -1,0 +1,85 @@
+{
+  "expected_carousel_count": 7,
+  "competitor_page": "https://hmnwatch.com/products/hmn-huracan-tecnica",
+  "produto_novo": "Targa Florio 1955",
+  "handle_novo": "targa-florio-1955",
+  "imagens": [
+    {
+      "posicao": 1,
+      "arquivo_local": "carrossel-concorrente/referencia-01.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0586/3669/7749/files/HMN-Huracan-Tecnica-Orange.jpg",
+      "cena": "Still de produto em fundo branco, mostrador esqueleto com detalhe hexagonal colorido nas laterais do case, ponteiros cruzados em X.",
+      "funcao_comercial": "Imagem principal da PDP.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 2,
+      "arquivo_local": "carrossel-concorrente/referencia-02.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0586/3669/7749/files/HMN-Huracan-Tecnica-Green.jpg",
+      "cena": "Mesma composicao em still branco, variante de cor.",
+      "funcao_comercial": "Mostra a variante de cor disponivel.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 3,
+      "arquivo_local": "carrossel-concorrente/referencia-03.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0586/3669/7749/files/HMN-Huracan-Tecnica-4.jpg",
+      "cena": "Angulo 3/4 lateral, mostrando espessura do case e acabamento da pulseira.",
+      "funcao_comercial": "Prova de construcao fisica.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 4,
+      "arquivo_local": "carrossel-concorrente/referencia-04.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0586/3669/7749/files/HMN-Huracan-Tecnica-2.jpg",
+      "cena": "Close-up macro do mecanismo central, detalhe de engrenagem decorativa.",
+      "funcao_comercial": "Prova de detalhe tecnico.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 5,
+      "arquivo_local": "carrossel-concorrente/referencia-05.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0586/3669/7749/files/HMN-Huracan-Tecnica-Red.jpg",
+      "cena": "Variante de cor (vermelho) em still branco.",
+      "funcao_comercial": "Segunda variante de cor.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 6,
+      "arquivo_local": "carrossel-concorrente/referencia-06.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0586/3669/7749/files/HMN-Huracan-Tecnica-1.jpg",
+      "cena": "Cena de estilo de vida: pulso apoiado no volante dentro de um carro, iluminacao de interior de veiculo.",
+      "funcao_comercial": "Prova de uso real.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    },
+    {
+      "posicao": 7,
+      "arquivo_local": "carrossel-concorrente/referencia-07.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0586/3669/7749/files/HMN-Huracan-Tecnica-3.jpg",
+      "cena": "Angulo traseiro/lateral do case, coroa de ajuste e curvatura da pulseira.",
+      "funcao_comercial": "Prova de conforto de uso e acabamento traseiro.",
+      "produto_correto": true,
+      "variante_identificada": true,
+      "resolucao_util": true,
+      "duplicata_de": null
+    }
+  ]
+}

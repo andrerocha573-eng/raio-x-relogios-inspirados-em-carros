@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Corsa Storica — Heritage Motorsport Watches</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --green:#1B4332; --cream:#F2E8D5; --terracotta:#B5542A; --graphite:#4A4E52; --navy:#1C2333; --gold:#C9A961;
+  --font-h:'Fraunces',serif; --font-b:'Inter',-apple-system,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--cream);color:var(--navy);font-family:var(--font-b);line-height:1.6}
+img{max-width:100%;display:block}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+a{color:inherit;text-decoration:none}
+/* placeholder marker */
+.ph{position:relative}
+.ph::before{content:attr(data-ph);position:absolute;top:8px;left:8px;right:8px;background:var(--terracotta);color:#fff;font-size:10px;font-weight:700;letter-spacing:.06em;padding:4px 8px;border-radius:4px;z-index:5;font-family:var(--font-b);text-transform:uppercase;width:fit-content;max-width:calc(100% - 16px);overflow-wrap:break-word;white-space:normal;line-height:1.3}
+
+header.top{background:var(--navy);color:var(--cream);padding:10px 0;font-size:12.5px;text-align:center;letter-spacing:.04em}
+nav.mainnav{background:var(--cream);border-bottom:1px solid rgba(28,35,51,.12);position:sticky;top:0;z-index:50}
+nav.mainnav .wrap{display:flex;align-items:center;justify-content:space-between;padding:16px 24px}
+.logo{font-family:var(--font-h);font-weight:700;font-size:22px;letter-spacing:.02em;color:var(--green)}
+.navlinks{display:flex;gap:28px;font-size:13.5px;font-weight:600}
+.navlinks a{opacity:.85}
+.navicons{display:flex;gap:16px;font-size:18px}
+@media(max-width:820px){.navlinks{display:none}}
+
+.hero{position:relative;min-height:560px;display:flex;align-items:center;background:linear-gradient(135deg,var(--green),var(--navy))}
+.hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.55}
+.hero .wrap{position:relative;z-index:2;color:var(--cream);padding:80px 24px}
+.hero .tag{display:inline-block;border:1px solid var(--gold);color:var(--gold);font-size:11px;letter-spacing:.16em;text-transform:uppercase;padding:5px 14px;border-radius:100px;margin-bottom:20px}
+.hero h1{font-family:var(--font-h);font-size:clamp(32px,5vw,58px);font-weight:700;max-width:620px;line-height:1.08;margin-bottom:18px}
+.hero p{max-width:480px;font-size:16px;opacity:.92;margin-bottom:28px}
+.btn{display:inline-block;background:var(--terracotta);color:#fff;font-weight:700;font-size:14px;padding:15px 30px;border-radius:4px;letter-spacing:.02em}
+.btn.ghost{background:transparent;border:1px solid var(--cream);margin-left:12px}
+
+.strip{background:var(--green);color:var(--cream);padding:12px 0;font-size:12.5px;text-align:center;letter-spacing:.04em}
+
+section{padding:64px 0}
+.section-tag{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--terracotta);font-weight:700;margin-bottom:10px}
+h2{font-family:var(--font-h);font-size:clamp(24px,3vw,36px);font-weight:700;margin-bottom:14px;color:var(--navy)}
+.lead{max-width:600px;color:#555;font-size:15px;margin-bottom:36px}
+
+.collections{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+.coll-card{position:relative;border-radius:10px;overflow:hidden;aspect-ratio:4/5;background:var(--graphite)}
+.coll-card img{width:100%;height:100%;object-fit:cover}
+.coll-card .cap{position:absolute;bottom:0;left:0;right:0;padding:20px;background:linear-gradient(transparent,rgba(0,0,0,.65));color:#fff;font-family:var(--font-h);font-size:19px;font-weight:600}
+
+.products{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:22px}
+.pcard{background:#fff;border-radius:10px;overflow:hidden;border:1px solid rgba(28,35,51,.08)}
+.pcard .imgwrap{aspect-ratio:1/1;background:var(--cream)}
+.pcard .imgwrap img{width:100%;height:100%;object-fit:contain;padding:14px}
+.pcard .info{padding:16px}
+.pcard .info .name{font-weight:700;font-size:14.5px;margin-bottom:4px}
+.pcard .info .price{color:var(--terracotta);font-weight:700;font-size:15px}
+.pcard .info .price s{color:#999;font-weight:500;margin-left:6px;font-size:13px}
+
+.story{display:grid;grid-template-columns:1fr;gap:40px;align-items:center}
+@media(min-width:860px){.story{grid-template-columns:1fr 1fr}}
+.story img{border-radius:10px;width:100%;aspect-ratio:4/3;object-fit:cover}
+.story .txt p{color:#555;font-size:15px;margin-bottom:14px}
+
+.trust{background:var(--navy);color:var(--cream)}
+.trust .grid4{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:24px;text-align:center}
+.trust .v{font-family:var(--font-h);font-size:30px;font-weight:700;color:var(--gold)}
+.trust .l{font-size:12px;opacity:.8;margin-top:6px;letter-spacing:.03em}
+
+.reviews{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+.rcard{background:#fff;border-radius:10px;padding:22px;border:1px solid rgba(28,35,51,.08)}
+.rcard .stars{color:var(--gold);font-size:13px;margin-bottom:10px}
+.rcard p{font-size:13.5px;color:#444}
+.rcard .who{margin-top:12px;font-size:12px;font-weight:700;color:var(--graphite)}
+
+footer{background:var(--navy);color:var(--cream);padding:56px 0 30px}
+footer .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:28px;margin-bottom:36px}
+footer h4{font-family:var(--font-h);font-size:14px;margin-bottom:12px;color:var(--gold)}
+footer a{display:block;font-size:13px;opacity:.75;margin-bottom:8px}
+footer .bottom{border-top:1px solid rgba(242,232,213,.15);padding-top:20px;font-size:11.5px;opacity:.6;text-align:center}
+</style>
+</head>
+<body>
+<header class="top">Free shipping over £75 · 2-year warranty · 30-day returns</header>
+<nav class="mainnav"><div class="wrap">
+  <div class="logo">CORSA STORICA</div>
+  <div class="navlinks"><a href="#">Collections</a><a href="#">Mille Miglia</a><a href="#">Le Mans</a><a href="#">Targa Florio</a><a href="#">Our Story</a></div>
+  <div class="navicons"><span>🔍</span><span>👤</span><span>🛒</span></div>
+</div></nav>
+
+<div class="hero">
+  <img class="ph" data-ph="IMAGEM · direção de arte: estrada de montanha europeia, golden hour, mão no volante de carro clássico" src="../Referencia de imagens - cena e prompt/le-mans-heritage/carrossel-concorrente/referencia-04.jpg" alt="">
+  <div class="wrap">
+    <span class="tag">Est. heritage collection</span>
+    <h1>The golden age of European racing, on your wrist.</h1>
+    <p>Watches inspired by the Mille Miglia, Le Mans and Targa Florio — the races that built motorsport history, at a fraction of what heritage brands charge.</p>
+    <a class="btn" href="#">Shop the Collection</a><a class="btn ghost" href="#">Our Story</a>
+  </div>
+</div>
+
+<div class="strip">As featured in car culture communities worldwide · Trusted by heritage motorsport enthusiasts</div>
+
+<section><div class="wrap">
+  <div class="section-tag">Shop by Era</div>
+  <h2>Three races, three watches</h2>
+  <p class="lead">Each collection is named after the race that inspired it — not a car brand, a moment in motorsport history.</p>
+  <div class="collections">
+    <div class="coll-card"><img class="ph" data-ph="IMAGEM · Targa Florio 1955, still verde racing" src="../Referencia de imagens - cena e prompt/targa-florio-1955/carrossel-concorrente/referencia-01.jpg" alt=""><div class="cap">Targa Florio 1955</div></div>
+    <div class="coll-card"><img class="ph" data-ph="IMAGEM · Mille Miglia Corsa, still grafite/terracota" src="../Referencia de imagens - cena e prompt/mille-miglia-corsa/carrossel-concorrente/referencia-01.webp" alt=""><div class="cap">Mille Miglia Corsa</div></div>
+    <div class="coll-card"><img class="ph" data-ph="IMAGEM · Le Mans Heritage, still prata/azul" src="../Referencia de imagens - cena e prompt/le-mans-heritage/carrossel-concorrente/referencia-01.png" alt=""><div class="cap">Le Mans Heritage</div></div>
+  </div>
+</div></section>
+
+<section style="background:#fff"><div class="wrap">
+  <div class="section-tag">Best Sellers</div>
+  <h2>New arrivals</h2>
+  <p class="lead">Every piece ships with a numbered archive card telling the story of the race it's named after.</p>
+  <div class="products">
+    <div class="pcard"><div class="imgwrap"><img class="ph" data-ph="IMAGEM · produto" src="../Referencia de imagens - cena e prompt/targa-florio-1955/carrossel-concorrente/referencia-01.jpg" alt=""></div><div class="info"><div class="name">Targa Florio 1955</div><div class="price">£119</div></div></div>
+    <div class="pcard"><div class="imgwrap"><img class="ph" data-ph="IMAGEM · produto" src="../Referencia de imagens - cena e prompt/mille-miglia-corsa/carrossel-concorrente/referencia-01.webp" alt=""></div><div class="info"><div class="name">Mille Miglia Corsa</div><div class="price">£109 <s>£145</s></div></div></div>
+    <div class="pcard"><div class="imgwrap"><img class="ph" data-ph="IMAGEM · produto" src="../Referencia de imagens - cena e prompt/le-mans-heritage/carrossel-concorrente/referencia-01.png" alt=""></div><div class="info"><div class="name">Le Mans Heritage</div><div class="price">£129</div></div></div>
+    <div class="pcard"><div class="imgwrap"><img class="ph" data-ph="IMAGEM · produto (bundle)" src="../Referencia de imagens - cena e prompt/targa-florio-1955/carrossel-concorrente/referencia-05.jpg" alt=""></div><div class="info"><div class="name">Archive Strap Set</div><div class="price">£24</div></div></div>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="story">
+    <img class="ph" data-ph="IMAGEM · foto de arquivo/editorial de corrida clássica" src="../Referencia de imagens - cena e prompt/mille-miglia-corsa/carrossel-concorrente/referencia-04.png" alt="">
+    <div class="txt">
+      <div class="section-tag">Our Story</div>
+      <h2>Why we built Corsa Storica</h2>
+      <p>The golden age of European motorsport — the Mille Miglia's thousand miles through Italy, Le Mans' 24 hours of endurance, Targa Florio's mountain circuit — shaped the cars we still admire today. That heritage is usually locked behind luxury watch prices.</p>
+      <p>We design each piece as a small archive of one race, with the same rotating dial mechanism watch collectors already trust — priced for people who love the story, not just the status.</p>
+      <a class="btn" href="#" style="margin-top:8px">Read the Full Story</a>
+    </div>
+  </div>
+</div></section>
+
+<section class="trust"><div class="wrap">
+  <div class="grid4">
+    <div><div class="v">2-Year</div><div class="l">Warranty on every watch</div></div>
+    <div><div class="v">30-Day</div><div class="l">Free returns</div></div>
+    <div><div class="v">£75+</div><div class="l">Free UK & US shipping</div></div>
+    <div><div class="v">Archive Card</div><div class="l">Numbered story card with every order</div></div>
+  </div>
+</div></section>
+
+<section style="background:#fff"><div class="wrap">
+  <div class="section-tag">Reviews</div>
+  <h2>What collectors say</h2>
+  <div class="reviews">
+    <div class="rcard"><div class="stars">★★★★★</div><p class="ph" data-ph="TEXTO · review real pendente">"Placeholder review — not a real customer quote. Replace before launch with a genuine verified review."</p><div class="who">— Placeholder, verified buyer</div></div>
+    <div class="rcard"><div class="stars">★★★★★</div><p class="ph" data-ph="TEXTO · review real pendente">"Placeholder review — not a real customer quote. Replace before launch with a genuine verified review."</p><div class="who">— Placeholder, verified buyer</div></div>
+    <div class="rcard"><div class="stars">★★★★★</div><p class="ph" data-ph="TEXTO · review real pendente">"Placeholder review — not a real customer quote. Replace before launch with a genuine verified review."</p><div class="who">— Placeholder, verified buyer</div></div>
+  </div>
+</div></section>
+
+<footer><div class="wrap">
+  <div class="cols">
+    <div><h4>Shop</h4><a href="#">All Watches</a><a href="#">Targa Florio</a><a href="#">Mille Miglia</a><a href="#">Le Mans</a></div>
+    <div><h4>About</h4><a href="#">Our Story</a><a href="#">Journal</a><a href="#">Contact</a></div>
+    <div><h4>Support</h4><a href="#">Shipping & Returns</a><a href="#">Warranty</a><a href="#">FAQ</a></div>
+    <div><h4>Follow</h4><a href="#">Instagram</a><a href="#">TikTok</a></div>
+  </div>
+  <div class="bottom">© 2026 Corsa Storica. Placeholder mockup for internal use — not a live store.</div>
+</div></footer>
+</body>
+</html>
