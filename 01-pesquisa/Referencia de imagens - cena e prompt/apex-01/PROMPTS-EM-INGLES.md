@@ -1,4 +1,4 @@
-# Prompts in English — Mille Miglia Corsa (mille-miglia-corsa)
+# Prompts in English — Apex 01 (pasta: apex-01)
 
 Competitor reference PDP: https://www.rschrono.com/products/gyro-shelby-gt500-stainless-steel-strap
 
@@ -6,7 +6,7 @@ Competitor reference PDP: https://www.rschrono.com/products/gyro-shelby-gt500-st
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-01.webp, position 1 of 5) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Mille Miglia Corsa", a heritage motorsport-inspired watch piece with grafite escovado (#4A4E52) com mostrador creme (#F2E8D5) e pinça de freio terracota (#B5542A). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 01", a car-culture watch piece with cinza chumbo escovado (#4B4F58) com mostrador branco técnico (#F5F6F7) e pinça de freio vermelho corrida (#D7263D). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: clean e-commerce product photography on pure white seamless background, matching the framing and crop of the reference image described as: Still de produto em fundo branco, mostrador giratorio estilo roda com pinca de freio colorida visivel, ponteiros vermelhos, pulseira de metal.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -23,7 +23,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-02.webp, position 2 of 5) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Mille Miglia Corsa", a heritage motorsport-inspired watch piece with grafite escovado (#4A4E52) com mostrador creme (#F2E8D5) e pinça de freio terracota (#B5542A). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 01", a car-culture watch piece with cinza chumbo escovado (#4B4F58) com mostrador branco técnico (#F5F6F7) e pinça de freio vermelho corrida (#D7263D). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: macro close-up product photography, shallow depth of field on white background, matching the framing and crop of the reference image described as: Close-up do bezel/moldura do mostrador, mostrando textura e acabamento da borda.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -40,7 +40,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-03.webp, position 3 of 5) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Mille Miglia Corsa", a heritage motorsport-inspired watch piece with grafite escovado (#4A4E52) com mostrador creme (#F2E8D5) e pinça de freio terracota (#B5542A). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 01", a car-culture watch piece with cinza chumbo escovado (#4B4F58) com mostrador branco técnico (#F5F6F7) e pinça de freio vermelho corrida (#D7263D). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: macro close-up product photography, shallow depth of field on white background, matching the framing and crop of the reference image described as: Verso do case (backplate), mostrando gravacao e fecho da pulseira.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -57,7 +57,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-04.png, position 4 of 5) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Mille Miglia Corsa", a heritage motorsport-inspired watch piece with grafite escovado (#4A4E52) com mostrador creme (#F2E8D5) e pinça de freio terracota (#B5542A). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 01", a car-culture watch piece with cinza chumbo escovado (#4B4F58) com mostrador branco técnico (#F5F6F7) e pinça de freio vermelho corrida (#D7263D). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: flat-lay unboxing photography on white background with packaging components arranged neatly, matching the framing and crop of the reference image described as: Fotografia de unboxing: caixa aberta mostrando relogio, cartao de garantia, saco de protecao, pano de microfibra e ferramenta de ajuste, legenda 'What's Included'.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -74,7 +74,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-05.webp, position 5 of 5) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Mille Miglia Corsa", a heritage motorsport-inspired watch piece with grafite escovado (#4A4E52) com mostrador creme (#F2E8D5) e pinça de freio terracota (#B5542A). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 01", a car-culture watch piece with cinza chumbo escovado (#4B4F58) com mostrador branco técnico (#F5F6F7) e pinça de freio vermelho corrida (#D7263D). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: macro close-up product photography, shallow depth of field on white background, matching the framing and crop of the reference image described as: Close-up macro do mostrador central, profundidade entre o mecanismo giratorio e o fundo do dial.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.

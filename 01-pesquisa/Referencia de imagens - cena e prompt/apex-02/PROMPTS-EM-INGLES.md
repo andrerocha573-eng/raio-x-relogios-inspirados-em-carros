@@ -1,4 +1,4 @@
-# Prompts in English — Targa Florio 1955 (targa-florio-1955)
+# Prompts in English — Apex 02 (pasta: apex-02)
 
 Competitor reference PDP: https://hmnwatch.com/products/hmn-huracan-tecnica
 
@@ -6,7 +6,7 @@ Competitor reference PDP: https://hmnwatch.com/products/hmn-huracan-tecnica
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-01.jpg, position 1 of 7) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Targa Florio 1955", a heritage motorsport-inspired watch piece with verde racing britanico (#1B4332) com mostrador creme (#F2E8D5) e detalhes dourados (#C9A961). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 02", a car-culture watch piece with cinza chumbo (#4B4F58) com mostrador branco técnico (#F5F6F7) e detalhes amarelo pista (#F4B400). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: clean e-commerce product photography on pure white seamless background, matching the framing and crop of the reference image described as: Still de produto em fundo branco, mostrador esqueleto com detalhe hexagonal colorido nas laterais do case, ponteiros cruzados em X.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -23,7 +23,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-02.jpg, position 2 of 7) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Targa Florio 1955", a heritage motorsport-inspired watch piece with verde racing britanico (#1B4332) com mostrador creme (#F2E8D5) e detalhes dourados (#C9A961). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 02", a car-culture watch piece with cinza chumbo (#4B4F58) com mostrador branco técnico (#F5F6F7) e detalhes amarelo pista (#F4B400). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: clean e-commerce product photography on pure white seamless background, matching the framing and crop of the reference image described as: Mesma composicao em still branco, variante de cor.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -40,7 +40,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-03.jpg, position 3 of 7) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Targa Florio 1955", a heritage motorsport-inspired watch piece with verde racing britanico (#1B4332) com mostrador creme (#F2E8D5) e detalhes dourados (#C9A961). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 02", a car-culture watch piece with cinza chumbo (#4B4F58) com mostrador branco técnico (#F5F6F7) e detalhes amarelo pista (#F4B400). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: macro close-up product photography, shallow depth of field on white background, matching the framing and crop of the reference image described as: Angulo 3/4 lateral, mostrando espessura do case e acabamento da pulseira.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -57,7 +57,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-04.jpg, position 4 of 7) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Targa Florio 1955", a heritage motorsport-inspired watch piece with verde racing britanico (#1B4332) com mostrador creme (#F2E8D5) e detalhes dourados (#C9A961). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 02", a car-culture watch piece with cinza chumbo (#4B4F58) com mostrador branco técnico (#F5F6F7) e detalhes amarelo pista (#F4B400). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: macro close-up product photography, shallow depth of field on white background, matching the framing and crop of the reference image described as: Close-up macro do mecanismo central, detalhe de engrenagem decorativa.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -74,7 +74,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-05.jpg, position 5 of 7) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Targa Florio 1955", a heritage motorsport-inspired watch piece with verde racing britanico (#1B4332) com mostrador creme (#F2E8D5) e detalhes dourados (#C9A961). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 02", a car-culture watch piece with cinza chumbo (#4B4F58) com mostrador branco técnico (#F5F6F7) e detalhes amarelo pista (#F4B400). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: clean e-commerce product photography on pure white seamless background, matching the framing and crop of the reference image described as: Variante de cor (vermelho) em still branco.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -91,7 +91,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-06.jpg, position 6 of 7) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Targa Florio 1955", a heritage motorsport-inspired watch piece with verde racing britanico (#1B4332) com mostrador creme (#F2E8D5) e detalhes dourados (#C9A961). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 02", a car-culture watch piece with cinza chumbo (#4B4F58) com mostrador branco técnico (#F5F6F7) e detalhes amarelo pista (#F4B400). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: lifestyle photography, product on wrist inside a car interior, cinematic natural light, matching the framing and crop of the reference image described as: Cena de estilo de vida: pulso apoiado no volante dentro de um carro, iluminacao de interior de veiculo.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
@@ -108,7 +108,7 @@ ATTACH the Product Master (real supplier photos, once the physical sample is app
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-07.jpg, position 7 of 7) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Targa Florio 1955", a heritage motorsport-inspired watch piece with verde racing britanico (#1B4332) com mostrador creme (#F2E8D5) e detalhes dourados (#C9A961). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex 02", a car-culture watch piece with cinza chumbo (#4B4F58) com mostrador branco técnico (#F5F6F7) e detalhes amarelo pista (#F4B400). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: macro close-up product photography, shallow depth of field on white background, matching the framing and crop of the reference image described as: Angulo traseiro/lateral do case, coroa de ajuste e curvatura da pulseira.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.

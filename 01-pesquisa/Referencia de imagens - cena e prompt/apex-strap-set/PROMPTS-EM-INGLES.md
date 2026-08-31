@@ -1,4 +1,4 @@
-# Prompts in English — Archive Strap Set (archive-strap-set)
+# Prompts in English — Apex Strap Set (pasta: apex-strap-set)
 
 Competitor reference PDP: https://carrorawatches.com/products/beamer-bracelet-copy
 
@@ -6,7 +6,7 @@ Competitor reference PDP: https://carrorawatches.com/products/beamer-bracelet-co
 
 ```
 REFERENCE HIERARCHY: the attached competitor reference image (carrossel-concorrente/referencia-01.jpg, position 1 of 1) controls SCENE and COMPOSITION ONLY: camera angle, framing, lighting mood, background style and product pose. It does NOT control the product's shape, color, branding, or any text engraved or printed on the product.
-PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Archive Strap Set", a heritage motorsport-inspired watch piece with pulseira tan leather e pulseira steel mesh, sem case (acessorio). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
+PRODUCT FIDELITY: attach the Product Master (or real supplier photos) of "Apex Strap Set", a car-culture watch piece with pulseira black leather e pulseira steel mesh, sem case (acessorio). The Product Master controls case shape, dial mechanism design, color, materials, proportions and every physical detail of the new product. Do not invent product geometry that is not present in the Product Master.
 COMPOSITION: clean e-commerce product photography on pure white seamless background, matching the framing and crop of the reference image described as: Still de pulseira avulsa em fundo branco, sem o relogio, mostrando textura e fecho.
 LENS: 100mm macro-equivalent lens, aperture f/5.6-f/8 for product clarity, tack-sharp focus on the main subject.
 LIGHT: soft diffused studio lighting (softbox key plus fill light), gentle highlight roll-off on metal surfaces, no harsh reflections.
