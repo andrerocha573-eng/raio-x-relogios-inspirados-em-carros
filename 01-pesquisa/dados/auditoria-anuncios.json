@@ -1,0 +1,293 @@
+{
+  "gerado_em": "2026-08-28",
+  "consolidado_em": "2026-09-30",
+  "nota": "Consolidação dos registros de auditoria de Ad Library citados nas páginas da pesquisa (demanda.html, anuncios.html e loja-*.html). Nenhum número novo foi coletado nesta consolidação: os valores repetem os publicados nas páginas em 28/08/2026. Campos null = NÃO OBTIDO.",
+  "fonte": "Meta Ad Library pública (facebook.com/ads/library), automação Playwright headless. Sem MCP/API de Meta Ads conectado na coleta.",
+  "limitacoes": [
+    "Interface pública não expõe page_id numérico; identidade da página confirmada pelo domínio de destino do anúncio.",
+    "Texto do anúncio (bodyText) não extraído: o parser por card capturou o cabeçalho de metadado em vez da legenda. A mídia (imagem/vídeo) foi baixada corretamente.",
+    "Contagens são um ponto único no tempo (28/08/2026), não série temporal."
+  ],
+  "concorrentes": [
+    {
+      "loja": "RS Chrono",
+      "dominio": "rschrono.com",
+      "status": "CONFIRMADO",
+      "metodo_confirmacao": "Busca pública por domínio (país=ALL, todos os status) + domínio de destino visível em cada anúncio. page_id numérico NÃO OBTIDO (a interface pública não o expõe).",
+      "buscas": [
+        {
+          "termo": "rschrono.com",
+          "tipo": "keyword_unordered",
+          "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=rschrono.com&search_type=keyword_unordered&media_type=all",
+          "resultado": "anúncios da própria loja"
+        }
+      ],
+      "anuncios_ativos": 6,
+      "anuncios_historico": 91,
+      "page_id": null,
+      "observacao": "Os 6 ativos começaram entre 13 e 14/08/2026, no mesmo criativo/variação: leitura de relançamento recente, não teste contínuo.",
+      "criativos_baixados": [
+        {
+          "adArchiveId": "1761676738187468",
+          "inicio": "Aug 13, 2026",
+          "dias_no_ar": 15,
+          "formato": "imagem",
+          "arquivo_local": "paginas/criativos/1761676738187468.jpg",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1761676738187468"
+        },
+        {
+          "adArchiveId": "3325113044326247",
+          "inicio": "Aug 13, 2026",
+          "dias_no_ar": 15,
+          "formato": "imagem",
+          "arquivo_local": "paginas/criativos/3325113044326247.jpg",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=3325113044326247"
+        },
+        {
+          "adArchiveId": "925843023902872",
+          "inicio": "Aug 14, 2026",
+          "dias_no_ar": 14,
+          "formato": "imagem",
+          "arquivo_local": "paginas/criativos/925843023902872.jpg",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=925843023902872"
+        }
+      ]
+    },
+    {
+      "loja": "HMN Watch",
+      "dominio": "hmnwatch.com",
+      "status": "CONFIRMADO",
+      "metodo_confirmacao": "Busca pública por domínio (país=ALL, todos os status) + domínio de destino visível em cada anúncio. page_id numérico NÃO OBTIDO (a interface pública não o expõe).",
+      "buscas": [
+        {
+          "termo": "hmnwatch.com",
+          "tipo": "keyword_unordered",
+          "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=hmnwatch.com&search_type=keyword_unordered&media_type=all",
+          "resultado": "anúncios da própria loja"
+        }
+      ],
+      "anuncios_ativos": 42,
+      "anuncios_historico": 210,
+      "page_id": null,
+      "observacao": "Anúncio mais longevo da pesquisa: 'BRZ Performance', ativo desde 23/07/2025 (401+ dias em 28/08/2026).",
+      "criativos_baixados": [
+        {
+          "adArchiveId": "1065981668846806",
+          "inicio": "Jul 23, 2025",
+          "dias_no_ar": 401,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1065981668846806.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1065981668846806"
+        },
+        {
+          "adArchiveId": "1733203680902457",
+          "inicio": "Jul 23, 2025",
+          "dias_no_ar": 401,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1733203680902457.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1733203680902457"
+        },
+        {
+          "adArchiveId": "1126820649499187",
+          "inicio": "Jul 23, 2025",
+          "dias_no_ar": 401,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1126820649499187.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1126820649499187"
+        }
+      ]
+    },
+    {
+      "loja": "DriftElement",
+      "dominio": "driftelement.com",
+      "status": "CONFIRMADO",
+      "metodo_confirmacao": "Busca pública por domínio (país=ALL, todos os status) + domínio de destino visível em cada anúncio. page_id numérico NÃO OBTIDO (a interface pública não o expõe).",
+      "buscas": [
+        {
+          "termo": "driftelement.com",
+          "tipo": "keyword_unordered",
+          "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=driftelement.com&search_type=keyword_unordered&media_type=all",
+          "resultado": "anúncios da própria loja"
+        }
+      ],
+      "anuncios_ativos": 42,
+      "anuncios_historico": 540,
+      "page_id": null,
+      "observacao": "Maior volume histórico dos 7 concorrentes.",
+      "criativos_baixados": [
+        {
+          "adArchiveId": "1914952779194697",
+          "inicio": "Jul 22, 2026",
+          "dias_no_ar": 37,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1914952779194697.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1914952779194697"
+        },
+        {
+          "adArchiveId": "1433739225171346",
+          "inicio": "Jul 22, 2026",
+          "dias_no_ar": 37,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1433739225171346.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1433739225171346"
+        },
+        {
+          "adArchiveId": "1400312078638204",
+          "inicio": "Jul 22, 2026",
+          "dias_no_ar": 37,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1400312078638204.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1400312078638204"
+        }
+      ]
+    },
+    {
+      "loja": "Carrora",
+      "dominio": "carrorawatches.com",
+      "status": "CONFIRMADO",
+      "metodo_confirmacao": "Busca pública por domínio (país=ALL, todos os status) + domínio de destino visível em cada anúncio. page_id numérico NÃO OBTIDO (a interface pública não o expõe).",
+      "buscas": [
+        {
+          "termo": "carrorawatches.com",
+          "tipo": "keyword_unordered",
+          "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=carrorawatches.com&search_type=keyword_unordered&media_type=all",
+          "resultado": "anúncios da própria loja"
+        }
+      ],
+      "anuncios_ativos": 20,
+      "anuncios_historico": 150,
+      "page_id": null,
+      "observacao": "Loja mais nova com Ad Library confirmada (desde set/2024). Data de início dos criativos baixados não extraída.",
+      "criativos_baixados": [
+        {
+          "adArchiveId": "833943349420652",
+          "inicio": null,
+          "dias_no_ar": null,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/833943349420652.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=833943349420652"
+        },
+        {
+          "adArchiveId": "1792525165441182",
+          "inicio": null,
+          "dias_no_ar": null,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1792525165441182.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1792525165441182"
+        },
+        {
+          "adArchiveId": "1285064619463666",
+          "inicio": null,
+          "dias_no_ar": null,
+          "formato": "video",
+          "arquivo_local": "paginas/criativos/1285064619463666.mp4",
+          "texto_do_anuncio": null,
+          "link_biblioteca": "https://www.facebook.com/ads/library/?id=1285064619463666"
+        }
+      ]
+    },
+    {
+      "loja": "Magnus Watch",
+      "dominio": "magnus.watch",
+      "status": "NAO_OBTIDO_CONTAMINADO",
+      "motivo": "Busca pública contaminada por 'Magnus Pro Worldwide' (empresa não relacionada).",
+      "buscas": [
+        {
+          "termo": "magnus.watch",
+          "tipo": "domínio"
+        },
+        {
+          "termo": "magnus",
+          "tipo": "raiz sem TLD"
+        },
+        {
+          "termo": "Magnus Watch",
+          "tipo": "nome da marca (keyword e page)"
+        },
+        {
+          "termo": "nome alternativo do vendor",
+          "tipo": "nome alternativo",
+          "observacao": "Aliases históricos do domínio: magnusbrand.com, magnus-luxury.com"
+        }
+      ],
+      "anuncios_ativos": null,
+      "anuncios_historico": null,
+      "page_id": null,
+      "criativos_baixados": []
+    },
+    {
+      "loja": "GoRacer",
+      "dominio": "goracerwatches.com",
+      "status": "NAO_OBTIDO_CONTAMINADO",
+      "motivo": "Busca por domínio retornou 0. Busca pelo nome 'GoRacer Watches' trouxe ~5 anúncios ativos, mas nenhum dos 4 parseados era da GoRacer (outra marca de relógio, um leiloeiro etc.).",
+      "buscas": [
+        {
+          "termo": "goracerwatches.com",
+          "tipo": "domínio",
+          "resultado": 0
+        },
+        {
+          "termo": "GoRacer Watches",
+          "tipo": "nome da marca (page e keyword)",
+          "resultado": "~5 ativos, 0 de 4 parseados pertenciam à loja"
+        },
+        {
+          "termo": "goracer",
+          "tipo": "raiz sem TLD"
+        }
+      ],
+      "anuncios_ativos": null,
+      "anuncios_historico": null,
+      "page_id": null,
+      "criativos_baixados": []
+    },
+    {
+      "loja": "DriveClox",
+      "dominio": "driveclox.com",
+      "status": "NAO_OBTIDO_VAZIO",
+      "motivo": "Busca pública genuinamente vazia (não contaminada) nas 3 variantes. Sem perfil social linkado na loja; canal de aquisição não identificado.",
+      "buscas": [
+        {
+          "termo": "driveclox.com",
+          "tipo": "domínio",
+          "resultado": 0
+        },
+        {
+          "termo": "driveclox",
+          "tipo": "raiz sem TLD",
+          "resultado": 0
+        },
+        {
+          "termo": "DriveClox Wheel Watches",
+          "tipo": "nome completo",
+          "resultado": 0
+        }
+      ],
+      "hipoteses_nao_testadas": [
+        "TikTok Ads",
+        "Google Shopping",
+        "volume/segmentação abaixo do limiar de detecção da busca pública"
+      ],
+      "anuncios_ativos": null,
+      "anuncios_historico": null,
+      "page_id": null,
+      "criativos_baixados": []
+    }
+  ],
+  "totais_confirmados": {
+    "lojas": 4,
+    "anuncios_ativos": 110,
+    "anuncios_historico": 991
+  }
+}
